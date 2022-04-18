@@ -4,7 +4,6 @@
 <p>I love building tech solutions to real-world problems! Here's what I do:</p>
 
 <h2>💡TECHNICAL SKILLS</h2>
-<hr style="margin:0px;">
 💻 FRONT-END: HTML5 | CSS | JavaScript | Bootstrap | JSON | JQuery | JSP | AJAX </br>
 ⚙️ BACK-END: Java | Node.js | MySQL | PostgreSQL | JPA | Hibernate | C | R </br>
 🛠 TOOLS: Amazon Web Services (AWS), Spring Tool Suite | Git | GitHub | Vim | Nano | Postman | VS Code | MySQL Workbench | WordPress | Adobe Suite
