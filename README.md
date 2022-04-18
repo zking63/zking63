@@ -5,9 +5,9 @@ Hi 👋 I'm Zoe! I'm a full-stack software developer and digital strategist livi
 I love building tech solutions to real-world problems! Here's what I do:
 
 💡TECHNICAL SKILLS
-___________________________________________________________
+<hr>
 💻 FRONT-END: HTML5 | CSS | JavaScript | Bootstrap | JSON | JQuery | JSP | AJAX </br>
-⚙️ BACK-END: Java | Node.js | MySQL | PostgreSQL | JPA | Hibernate | C | R
+⚙️ BACK-END: Java | Node.js | MySQL | PostgreSQL | JPA | Hibernate | C | R </br>
 🛠 TOOLS: Amazon Web Services (AWS), Spring Tool Suite | Git | GitHub | Vim | Nano | Postman | VS Code | MySQL Workbench | WordPress | Adobe Suite
 
 <!--
