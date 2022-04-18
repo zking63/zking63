@@ -7,7 +7,7 @@
 💻 FRONT-END: HTML5 | CSS | JavaScript | Bootstrap | JSON | JQuery | JSP | AJAX </br>
 ⚙️ BACK-END: Java | Node.js | MySQL | PostgreSQL | JPA | Hibernate | C | R </br>
 🛠 TOOLS: Amazon Web Services (AWS) | Spring Tool Suite | Git | GitHub | Vim | Nano | Postman | VS Code | MySQL Workbench | WordPress | Adobe Suite
-</br></br>
+
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
 
 <!--
