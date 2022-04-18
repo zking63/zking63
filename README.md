@@ -1,18 +1,12 @@
-<table background="" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 0px; min-height:50px;background-color:#7eb1e2;padding:10px;font-family: Arial,sans-serif; line-height: 1.3;" width="600px">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 0px; min-height:50px;background-color:#7eb1e2;padding:10px;font-family: Arial,sans-serif; line-height: 1.3;" width="600px">
 										<tbody>
 											<tr>
 												<td>
 
-												<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width: 100%; font-size: 21px; text-align: center; font-family: Arial,sans-serif; line-height: 1.2;" width="100%">
-													<tbody>
-														<tr>
-															<td bgcolor="" style="padding-top:5px;padding-right:3px;padding-bottom:5px;padding-left:3px;">
 															<p style="margin: 0;text-align:center;font-size:22px;font-family:Lucida,sans-serif;font-size:22px;text-align:center;">YOUR TEXT HERE</p>
-															</td>
-														</tr>
-													</tbody>
-												</table>
-								
+				
+			
+						
 												</td>
 											</tr>
 										</tbody>
