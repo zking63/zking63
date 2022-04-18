@@ -1,16 +1,3 @@
-<table background="" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 0px; min-height:50px;border-style:solid;border-width:10px;border-color:#0081ff;background-color:#0081ff;padding:10px;font-family: Arial,sans-serif; line-height: 1.3;" width="600px">
-										<tbody>
-											
-														<tr>
-															<td bgcolor="" style="padding-top:5px;padding-right:3px;padding-bottom:5px;padding-left:3px;">
-															<p style="margin: 0;text-align:center;font-size:22px;font-family:Lucida,sans-serif;font-size:22px;text-align:center;">YOUR TEXT HERE</p>
-
-												</td>
-											</tr>
-										</tbody>
-									</table>
-
-
 <h1>Hi 👋 I'm Zoe!</h1> 
 <p>I'm a full-stack software developer and digital strategist living in Washington, D.C.</p> 
 
