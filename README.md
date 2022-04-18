@@ -1,4 +1,5 @@
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 0px; min-height:50px;background-color:#7eb1e2;padding:10px;font-family: Arial,sans-serif; line-height: 1.3;" width="600px">
+<table background="" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 0px; min-height:50px;border-style:solid;border-width:10px;border-color:#0081ff;background-color:#0081ff;padding:10px;font-family: Arial,sans-serif; line-height: 1.3;" width="20px">
+
 										<tbody>
 											<tr>
 												<td>
