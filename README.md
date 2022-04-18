@@ -1,8 +1,8 @@
-<table background="" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 0px; min-height:50px;border-style:solid;border-width:10px;border-color:#0081ff;background-color:#7eb1e2;padding:10px;font-family: Arial,sans-serif; line-height: 1.3;" width="600px">
+<table background="" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius: 0px; min-height:50px;background-color:#7eb1e2;padding:10px;font-family: Arial,sans-serif; line-height: 1.3;" width="600px">
 										<tbody>
 											<tr>
 												<td>
-												<div class="block-parent box" collapsed="false" expand-on-hover="false">
+
 												<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width: 100%; font-size: 21px; text-align: center; font-family: Arial,sans-serif; line-height: 1.2;" width="100%">
 													<tbody>
 														<tr>
@@ -12,7 +12,7 @@
 														</tr>
 													</tbody>
 												</table>
-												</div>
+								
 												</td>
 											</tr>
 										</tbody>
