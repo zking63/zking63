@@ -9,9 +9,8 @@
 🛠 TOOLS: Amazon Web Services (AWS) | Spring Tool Suite | Git | GitHub | Vim | Nano | Postman | VS Code | MySQL Workbench | WordPress | Adobe Suite </br>
 </br>
 
-![Zoe's github stats](https://github-readme-stats.vercel.app/api?username=zking63&hide=["issues"]&show_icons=true)
-</br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zking63&layout=compact&theme=cobalt&hide_border=true" />
+![Zoe's github stats](https://github-readme-stats.vercel.app/api?username=zking63&hide=["issues"]&show_icons=true) <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zking63&layout=compact&theme=cobalt&hide_border=true" />
+
 <!--
 **zking63/zking63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
