@@ -1,4 +1,4 @@
-<h1>Hi 👋 I'm Zoe!</h1> 
+<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Zoe!</h1> 
 <p>I'm a full-stack software developer and digital strategist living in Washington, D.C.</p> 
 
 <p>I love building tech solutions to real-world problems! Here's what I do:</p>
