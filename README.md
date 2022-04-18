@@ -8,6 +8,8 @@
 ⚙️ BACK-END: Java | Node.js | MySQL | PostgreSQL | JPA | Hibernate | C | R </br>
 🛠 TOOLS: Amazon Web Services (AWS) | Spring Tool Suite | Git | GitHub | Vim | Nano | Postman | VS Code | MySQL Workbench | WordPress | Adobe Suite
 
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=zking63&hide=["issues"]&show_icons=true)
+
 <!--
 **zking63/zking63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
