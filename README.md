@@ -6,7 +6,7 @@
 <h2>💡TECHNICAL SKILLS</h2>
 💻 FRONT-END: HTML5 | CSS | JavaScript | Bootstrap | JSON | JQuery | JSP | React.js | Angular </br>
 ⚙️ BACK-END: Java | Node.js | MySQL | PostgreSQL | JPA | Hibernate | C | R </br>
-🛠 TOOLS: Amazon Web Services (AWS) | Spring Tool Suite | Git | GitHub | Vim | Nano | Postman | VS Code | MySQL Workbench | WordPress | Adobe Suite </br>
+🛠 TOOLS: Amazon Web Services (AWS) | Spring Tool Suite | Git | GitHub | Vim | Nano | Postman | VS Code | MySQL Workbench | WordPress | Adobe Suite | SoapUI </br>
 </br>
 
 ![Zoe's github stats](https://github-readme-stats.vercel.app/api?username=zking63&hide=["issues"]&show_icons=true)  </br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zking63&layout=compact&theme=cobalt&hide_border=true" />
